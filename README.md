@@ -1,7 +1,7 @@
 # Campaign Analysis: Customer Churn Prediction
 
 ## Overview
-This document outlines the methodology, data analysis, and implications of evaluating Campaign Type C, which targets departments contributing to the bottom 25% of revenue at Regork Company. The primary aim is to provide actionable insights into the campaign's return on investment (ROI) and to guide strategic marketing decisions.
+This work outlines the methodology, data analysis, and implications of evaluating Campaign Type C, which targets departments contributing to the bottom 25% of revenue at Regork Company. The primary aim is to provide actionable insights into the campaign's return on investment (ROI) and to guide strategic marketing decisions.
 
 ## 1. Introduction
 The analysis assesses the impact of Campaign Type C on the least profitable departments within Regork. Understanding this can help optimize marketing efforts, leading to more effective resource allocation and enhanced overall profitability.
